@@ -1,5 +1,5 @@
 <h1>Realtime_Face_Recognition</h1>
-import cv2,face_recogntion
+import cv2 , face_recogntion
 <br>
-here  an Example
+<p>here  an Example</p>
 <img src="https://cdn.discordapp.com/attachments/865789808630431774/865884081049174026/unknown.png">
