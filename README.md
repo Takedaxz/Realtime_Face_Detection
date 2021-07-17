@@ -1,4 +1,4 @@
-<h1>Realtime_Face_Recognition</h1>
+<h1>Realtime_Face_Detection</h1>
 import cv2 , face_recogntion
 <br>
 <p>here  an Example</p>
